@@ -9,31 +9,53 @@
 
 ## ОПЫТ И ТЕХНОЛОГИИ
 ### Android (Koltin)
-
 [Обучение в Heads&Hands](https://github.com/KolaYAndr/h-h/blob/main/README.md)
 
+**Технологии:**
+* Room
+* Glide
+* Jetpack Navigation
+* Firebase Messaging Service
+* Dagger Hilt
+* Retrofit + OkHTTP
+* Yandex MapKit
+* Coroutines
+
 [Приложение для записок](https://github.com/KolaYAndr/Note/tree/master/README.md)
+
+**Технологии:**
+* MVVM
+* ViemModel Factory
+* Jetpack Compose
+* Compose Navigation
+* Coroutines
+* Room Database
+* Firebase database
 
 [Агрегатор новостей](https://github.com/KolaYAndr/News/tree/main/README.md)
 
 **Технологии:**
 * MVVM
-* Views (xml) 
-* Jetpack Navigation
-* Jetpack Compose
-* Compose Navigation
+* Views (xml) + Jetpack Navigation
+* Room database
 * Coroutines
 * Dagger Hilt
 * Retrofit
 * OkHTTP
 * Glide
-* ViemModel Factory
-* Room Database
-* Firebase database
 
 ### Java
 
 [Обучение в Croc](https://github.com/KolaYAndr/java_school-22/tree/main/README.md)
+
+**Темы школы:**
+* ООП
+* Regex Patterns
+* Files
+* Stream API
+* JDBS
+* Multithread programming
+* Client-Server interaction
 
 [Android приложение для изучения английского](https://github.com/KolaYAndr/java_project/tree/main/README.md)
 
